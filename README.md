@@ -1,0 +1,1 @@
+   A Basic CRM Project built with Django, HTML, CSS, JavaScript, and MySQL allows users to create, update, edit, and delete customer details while storing data in a MySQL database. This project provides an intuitive interface to manage customer information and handle CRUD operations efficiently.
